@@ -13,3 +13,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ | Easy || Iteratively|
+|  89  | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ | Easy |CC189| ||
