@@ -11,4 +11,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 ## Linked List
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
-|234|[Palindrome Linked List](https://github.com/yuzhoujr/LeetCode/blob/master/linkedlist/palindrome.py) | [Python](./Python/add-two-numbers.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
