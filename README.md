@@ -11,7 +11,8 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 ## Linked List
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ | Easy || Iteratively|
 |  89  | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ | Easy |CC189| |
 |  141  | [Partition List](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ | Easy |CC189| Two Pointers|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  | Easy || |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
