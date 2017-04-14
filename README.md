@@ -20,3 +20,8 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [Python](./linkedlist/addTwoNumbers.py) | _O(n)_| _O(n)_  | Medium |CC189| |
 |445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/#/description)| [Python](./linkedlist/addTwoNumbersTwo.py) | _O(n)_| _O(n)_  | Medium |CC189 |Stack|
+
+## Daily Task
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/#/description)| [Python](./linkedlist/detectCycleii.py) | _O(n)_| _O(1)_  | Medium |CC189 |[Video](https://www.youtube.com/watch?v=iZVBVCpmugI&t=1s)|
