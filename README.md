@@ -25,3 +25,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/#/description)| [Python](./linkedlist/detectCycleii.py) | _O(n)_| _O(1)_  | Medium |CC189 |[Video](https://www.youtube.com/watch?v=iZVBVCpmugI&t=1s)|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/#/description)| [Python](./linkedlist/oddEvenList.py) | _O(n)_| _O(1)_  | Medium | ||
