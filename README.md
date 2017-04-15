@@ -21,9 +21,10 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [Python](./linkedlist/addTwoNumbers.py) | _O(n)_| _O(n)_  | Medium |CC189| |
 |445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/#/description)| [Python](./linkedlist/addTwoNumbersTwo.py) | _O(n)_| _O(n)_  | Medium |CC189 |Stack|
 
-## Daily Task
+## 4/14 Tasks (LinkedList Medium)
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/#/description)| [Python](./linkedlist/detectCycleii.py) | _O(n)_| _O(1)_  | Medium |CC189 |[Video](https://www.youtube.com/watch?v=iZVBVCpmugI&t=1s)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/#/description)| [Python](./linkedlist/oddEvenList.py) | _O(n)_| _O(1)_  | Medium | ||
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/#/description)| [Python](./linkedlist/reorderList.py) | _O(n)_| _O(1)_  | Medium | ||
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/#/description)| [Python](./linkedlist/reorder.py) | _O(n)_| _O(1)_  | Medium | ||
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/solutions)| [Python](./linkedlist/swapPairs.py) | _O(n)_| _O(1)_  | Medium | ||
