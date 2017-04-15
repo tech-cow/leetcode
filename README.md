@@ -36,3 +36,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  | Easy | ||
 |148|[Sort List](https://leetcode.com/problems/sort-list/#/description)| [Python](./linkedlist/sortList.py) | _O(nlogn)_| _O(1)_  | Medium | ||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/#/description)| [Python](./linkedlist/rotateRight.py) | _O(n)_| _O(1)_  | Medium | ||
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_  | Medium | ||
