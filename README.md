@@ -34,3 +34,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  | Easy | ||
+|148|[Sort List](https://leetcode.com/problems/sort-list/#/description)| [Python](./linkedlist/sortList.py) | _O(nlogn)_| _O(1)_  | Medium | ||
