@@ -28,3 +28,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/#/description)| [Python](./linkedlist/oddEvenList.py) | _O(n)_| _O(1)_  | Medium | ||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/#/description)| [Python](./linkedlist/reorder.py) | _O(n)_| _O(1)_  | Medium | ||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/solutions)| [Python](./linkedlist/swapPairs.py) | _O(n)_| _O(1)_  | Medium | |[Note](http://imgur.com/a/4G6ng)|
+
+
+## 4/15 Tasks (LinkedList Medium)
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  | Easy | ||
