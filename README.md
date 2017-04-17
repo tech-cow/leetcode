@@ -37,3 +37,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |148|[Sort List](https://leetcode.com/problems/sort-list/#/description)| [Python](./linkedlist/sortList.py) | _O(nlogn)_| _O(1)_  | Medium | ||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/#/description)| [Python](./linkedlist/rotateRight.py) | _O(n)_| _O(1)_  | Medium | ||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_  | Medium | ||
+
+
+## 4/16 Tasks (LinkedList Medium)
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)| [Python](./linkedlist/copyRandomList.py) | _O(n)_| _O(n)_  | Medium | ||
