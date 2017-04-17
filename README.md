@@ -40,4 +40,6 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 
 
 ## 4/16 Tasks (LinkedList Medium)
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)| [Python](./linkedlist/copyRandomList.py) | _O(n)_| _O(n)_  | Medium | ||
