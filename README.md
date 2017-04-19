@@ -54,3 +54,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 ## 4/17 Tasks (Stacks and Queues: CtCi Chapter 3)
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
+
+
+
+
+## 4/18 Tasks (Stacks Easy)
+|155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_  | Easy | ||
