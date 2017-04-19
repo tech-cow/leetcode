@@ -8,7 +8,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 * [Linked List](https://github.com/yuzhoujr/LeetCode#linked-list)
 
 
-## Linked List Overview
+## Linked List
 [Overview](http://www.cnblogs.com/Raising-Sun/p/5970662.html#3534606)
 
 
