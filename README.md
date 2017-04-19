@@ -9,6 +9,11 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 
 
 ## Linked List
+[链表总结](http://www.cnblogs.com/Raising-Sun/p/5970662.html#3534606)
+
+
+
+## Linked List Basic
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ | Easy || Iteratively|
@@ -43,3 +48,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)| [Python](./linkedlist/copyRandomList.py) | _O(n)_| _O(n)_  | Medium | ||
+
+
+
+## 4/17 Tasks (Stacks and Queues: CtCi Chapter 3)
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
