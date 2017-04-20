@@ -63,3 +63,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_  | Easy | ||
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)| [Python](./stack_queue/queueStack.py) | push/top/pop: _O(n)_| _O(n)_  | Easy | ||
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_  | Easy | ||
