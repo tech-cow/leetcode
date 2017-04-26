@@ -66,8 +66,8 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_  | Easy | ||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/#/description)| [Python](./stack_queue/movingAverage.py) | _O(1)_| _O(n)_  | Easy | ||
 
-## 4/26 Tasks (Stacks Easy)
+## 4/26 Tasks (Tree Easy)
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python LBYL](./tree/Yu/100_isSameTree.py) <br> [Python EAFP](./tree/YeSheng/100.Same_Tree.py) | _O(N)_| _O(1)_  | Easy ||[EAFP vs. LBYL](https://github.com/ictar/python-doc/blob/master/Others/%E5%AE%9E%E7%94%A8Python%EF%BC%9AEAFP%20VS.%20LBYL.md)|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python LBYL](./tree/Yu/101_symmetricTree.py) <br> [Python EAFP](./tree/YeSheng/101.Symmetric_Tree.py) | _O(N)_| _O(1)_  | Easy ||[Editorial Solution](https://leetcode.com/articles/symmetric-tree/)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python [Yu]](./tree/Yu/100_isSameTree.py) <br> [Python [Sheng]](./tree/YeSheng/100.Same_Tree.py) | _O(N)_| _O(1)_  | Easy ||[EAFP vs. LBYL](https://github.com/ictar/python-doc/blob/master/Others/%E5%AE%9E%E7%94%A8Python%EF%BC%9AEAFP%20VS.%20LBYL.md)|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python [Yu]](./tree/Yu/101_symmetricTree.py) <br> [Python [Sheng]](./tree/YeSheng/101.Symmetric_Tree.py) | _O(N)_| _O(1)_  | Easy ||[Editorial Solution](https://leetcode.com/articles/symmetric-tree/)|
