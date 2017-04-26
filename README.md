@@ -65,3 +65,8 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)| [Python](./stack_queue/queueStack.py) | push/pop: _O(1)_ top:_O(n)_ | _O(n)_  | Easy | ||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_  | Easy | ||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/#/description)| [Python](./stack_queue/movingAverage.py) | _O(1)_| _O(n)_  | Easy | ||
+
+## 4/26 Tasks (Stacks Easy)
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
+|100|[Min Stack](https://leetcode.com/problems/same-tree/)| [Python v1](https://github.com/yuzhoujr/LeetCode/blob/master/tree/Yu/100_isSameTree.py)[Python v2](https://github.com/yuzhoujr/LeetCode/blob/master/tree/YeSheng/100.Same_Tree.py) | _O(N)_| _O(1)_  | Easy | ||
