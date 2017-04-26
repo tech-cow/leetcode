@@ -7,7 +7,7 @@
 # Descrption:
 # Given two binary trees, write a function to check if they are equal or not.
 # ****************
-# Time Complexity O(N) | Space O(N)
+# Time Complexity O(N) | Space O(1)
 
 
 # Recursive思路：
