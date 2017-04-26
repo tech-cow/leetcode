@@ -69,4 +69,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 ## 4/26 Tasks (Stacks Easy)
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python LBYL](https://github.com/yuzhoujr/LeetCode/blob/master/tree/Yu/100_isSameTree.py)  [Python EAFP](https://github.com/yuzhoujr/LeetCode/blob/master/tree/YeSheng/100.Same_Tree.py) | _O(N)_| _O(1)_  | Easy ||[EAFP vs. LBYL](https://github.com/ictar/python-doc/blob/master/Others/%E5%AE%9E%E7%94%A8Python%EF%BC%9AEAFP%20VS.%20LBYL.md)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python LBYL](./tree/Yu/100_isSameTree.py)  [Python EAFP](./tree/YeSheng/100.Same_Tree.py) | _O(N)_| _O(1)_  | Easy ||[EAFP vs. LBYL](https://github.com/ictar/python-doc/blob/master/Others/%E5%AE%9E%E7%94%A8Python%EF%BC%9AEAFP%20VS.%20LBYL.md)|
