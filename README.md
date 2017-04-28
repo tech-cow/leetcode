@@ -55,7 +55,6 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 
-[C++](./C++/sum-of-two-integers.cpp) [Python](./Python/sum-of-two-integers.py
 
 
 ## 4/18 Tasks (Stacks Easy)
@@ -65,6 +64,12 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/#/description)| [Python](./stack_queue/queueStack.py) | push/pop: _O(1)_ top:_O(n)_ | _O(n)_  | Easy | ||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_  | Easy | ||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/#/description)| [Python](./stack_queue/movingAverage.py) | _O(1)_| _O(n)_  | Easy | ||
+
+## 4/22 Tasks (Tree Easy)
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python [Yu]](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  | Easy | ||
+|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python [Yu]](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_  | Easy | |[中文讲解](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
 
 ## 4/26 Tasks (Tree Easy)
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
