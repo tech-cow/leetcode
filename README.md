@@ -70,6 +70,10 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python [Yu]](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  | Easy | ||
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python [Yu]](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_  | Easy | |[中文讲解](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)| [Python [Yu]](./tree/Yu/404_sum_of_Left_Leaves.py) | _O(N)_| _O(h)_  | Easy | ||
+
+
+
 
 ## 4/26 Tasks (Tree Easy)
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
