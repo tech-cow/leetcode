@@ -71,7 +71,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python [Yu]](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  | Easy | ||
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python [Yu]](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_  | Easy | |[中文讲解](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)| [Python [Yu]](./tree/Yu/404_sum_of_Left_Leaves.py) | _O(N)_| _O(h)_  | Easy | ||
-
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/#/description)| [Python [Yu]](./tree/Yu/543.py) | _O(N)_| _O(h)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=0VnOfu2pYTo)|
 
 
 
