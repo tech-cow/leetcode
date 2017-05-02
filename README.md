@@ -83,3 +83,6 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)| [Python [Yu]](https://github.com/yuzhoujr/LeetCode/blob/master/tree/Yu/111_minDepth.py) <br> [Python [Sheng]](https://github.com/yuzhoujr/LeetCode/blob/master/tree/YeSheng/111.Minimum_Depth_of_Binary_Tree.py) | _O(N)_| _O(1)_  | Easy |||
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./tree/Yu/104_maxDepth.py) | _O(N)_| _O(1)_  | Easy | ||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/#/description)| [Python](./tree/Yu/235_lca_bst.py) | _O(N)_| _O(1)_  | Easy | ||
+
+## 5/2 Tasks (Tree Easy)
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/solutions)| [Python [Yu]](./tree/Yu/108.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=lBrb4fXPcMM)|
