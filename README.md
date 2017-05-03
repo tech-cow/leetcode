@@ -89,3 +89,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/solutions)| [Python [Yu]](./tree/Yu/108.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=lBrb4fXPcMM)|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)| [Python [Yu]](./tree/Yu/563.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/47FQVP4ynk0)|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)| [Python [Yu]](./tree/Yu/257.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://youtu.be/Zr_7qq2f16k)|
