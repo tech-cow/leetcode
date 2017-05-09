@@ -27,14 +27,24 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
-        self.res = 0
-        def depth(root):
+        #Global MAX
+        self.max = 0
+
+        #返回目前节点的最大值，以及对全球变量的返回值进行比对，更改
+        def currentMax(root):
+            #Edge:
             if not root:
                 return 0
-            left = depth(root.left)
-            right = depth(root.right)
-            self.res = max(self.res, left+right)
-            return 1+ max(left,right)
 
-        depth(root)
-        return self.res
+            # Divide and Conquer
+            # 左右节点返回一个当前为止的最大值
+            left = currentMax(root.left)
+            right = currentMax(root.right)
+
+            self.max = max(self.max, left + right)
+
+            # 像上层返回左右两边取舍的最大值
+            return 1 + max(left, right)
+
+        currentMax(root)
+        return self.max
