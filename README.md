@@ -71,7 +71,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python [Yu]](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  | Easy | ||
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python [Yu]](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_  | Easy | |[中文讲解](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)| [Python [Yu]](./tree/Yu/404_sum_of_Left_Leaves.py) | _O(N)_| _O(h)_  | Easy | ||
-|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/#/description)| [Python [Yu]](./tree/Yu/543.py) | _O(N)_| _O(h)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=0VnOfu2pYTo)|
+
 
 
 
@@ -90,6 +90,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/solutions)| [Python [Yu]](./tree/Yu/108.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=lBrb4fXPcMM)|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/#/description)| [Python [Yu]](./tree/Yu/226.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/oiX3mqcAK0s)|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/#/description)| [Python [Yu]](./tree/Yu/543.py) | _O(N)_| _O(h)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=0VnOfu2pYTo)|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/#/description)| [Python [Yu]](./tree/Yu/501.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://youtu.be/v4F4x_uwMb8)|
+
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)| [Python [Yu]](./tree/Yu/563.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/47FQVP4ynk0)|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)| [Python [Yu]](./tree/Yu/257.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://youtu.be/Zr_7qq2f16k)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python [Yu]](./tree/Yu/102.py) | _O(N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/IWiprpdSgzg)|
