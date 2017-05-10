@@ -27,13 +27,18 @@ class Solution(object):
         :type sum: int
         :rtype: bool
         """
+        #Edge
         if not root:
             return False
 
-        if root.left == None and root.right == None:
-            return root.val == sum
+        #Process
+        if not root.left and not root.right:
+            return sum - root.val == 0
+        else:
+            sum -= root.val
 
-        left = self.hasPathSum(root.left, sum - root.val)
-        right = self.hasPathSum(root.right, sum - root.val)
+        #Recursion
+        left = self.hasPathSum(root.left, sum)
+        right = self.hasPathSum(root.right, sum)
 
         return left or right
