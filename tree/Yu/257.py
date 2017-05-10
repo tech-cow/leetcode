@@ -31,3 +31,33 @@ class Solution(object):
             if node.right:
                 stack.append((node.right, strr + str(node.val) + "->"))
         return res
+
+
+# Recursive DFS
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def binaryTreePaths(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[str]
+        """
+        self.res = []
+        #Edge
+        if not root:
+            return []
+        self.dfs(root, "")
+        return self.res
+
+    def dfs(self, root, strr):
+        if not root.left and not root.right:
+            self.res.append(strr + str(root.val))
+        if root.left:
+            self.dfs(root.left, strr + str(root.val) + "->")
+        if root.right:
+            self.dfs(root.right, strr + str(root.val) + "->")
