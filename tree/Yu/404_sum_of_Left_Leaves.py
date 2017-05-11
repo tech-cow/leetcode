@@ -4,13 +4,19 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
+        # Edge
         if not root:
             return 0
+        # Process
+        self.count = 0
+        def dfs(root):
+            if not root:
+                return 0
+            if root.left and not root.left.left and not root.left.right:
+                self.count += root.left.val
+            # Recursion
+            dfs(root.left)
+            dfs(root.right)
 
-        if root.left and root.left.left == None and root.left.right == None:
-            return root.left.val + self.sumOfLeftLeaves(root.right)
-
-        left = self.sumOfLeftLeaves(root.left)
-        right = self.sumOfLeftLeaves(root.right)
-
-        return left + right
+        dfs(root)
+        return self.count
