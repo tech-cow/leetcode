@@ -89,7 +89,8 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/#/description)| [Python [Yu]](./tree/Yu/501.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://youtu.be/v4F4x_uwMb8)|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)| [Python [Yu]](./tree/Yu/257.py) | _O(N)_| _O(N)_  | Easy | |[公瑾讲解](https://youtu.be/Zr_7qq2f16k)|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/#/description)| [Python [Yu]](./tree/Yu/572.py) | _O(S*T)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/v4F4x_uwMb8)|
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/#/description)| [Python [Yu]](./tree/Yu/437.py) | _O(N^2)_| _O(1)_  | Easy | ||
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/#/description)| [Python [Yu]](./tree/Yu/437.py) | _O(N^2)_| _O(1)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=NTyOEYYyv-o)|
+
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)| [Python [Yu]](./tree/Yu/404_sum_of_Left_Leaves.py) | _O(N)_| _O(1)_  | Easy |[公瑾讲解](https://youtu.be/pH-KxPcBF_4)|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description)| [Python [Yu]](./tree/Yu/270)| _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/RwvQyKJxHZk)|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)| [Python [Yu]](./tree/Yu/563.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/47FQVP4ynk0)|
