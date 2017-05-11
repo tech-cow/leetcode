@@ -13,7 +13,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 
 
 
-## Linked List Basic
+## Linked List Easy
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ | Easy || Iteratively|
@@ -23,41 +23,24 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/#/description) | [Python](./linkedlist/RemoveLinkedListElements.py) | _O(n)_| _O(1)_  | Easy || |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description) | [Python](./linkedlist/ReverseLinkedList.py) | _O(n)_| _O(1)_  | Easy |CC189| [Video Tutorial](https://www.youtube.com/watch?v=sYcOK51hl-A&t=681s) |
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [Python](./linkedlist/addTwoNumbers.py) | _O(n)_| _O(n)_  | Medium |CC189| |
-|445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/#/description)| [Python](./linkedlist/addTwoNumbersTwo.py) | _O(n)_| _O(n)_  | Medium |CC189 |Stack|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  | Easy | ||
 
-## 4/14 Tasks (LinkedList Medium)
+## LinkedList Medium
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/#/description) | [Python](./linkedlist/addTwoNumbers.py) | _O(n)_| _O(n)_  | Medium |CC189| |
+|445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/#/description)| [Python](./linkedlist/addTwoNumbersTwo.py) | _O(n)_| _O(n)_  | Medium |CC189 |Stack|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/#/description)| [Python](./linkedlist/detectCycleii.py) | _O(n)_| _O(1)_  | Medium |CC189 |[Video](https://www.youtube.com/watch?v=iZVBVCpmugI&t=1s)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/#/description)| [Python](./linkedlist/oddEvenList.py) | _O(n)_| _O(1)_  | Medium | ||
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/#/description)| [Python](./linkedlist/reorder.py) | _O(n)_| _O(1)_  | Medium | ||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/solutions)| [Python](./linkedlist/swapPairs.py) | _O(n)_| _O(1)_  | Medium | |[Note](http://imgur.com/a/4G6ng)|
-
-
-## 4/15 Tasks (LinkedList Medium)
-|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
-|-----|-------| -------- | ---- | ------|------------|---|-----|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  | Easy | ||
 |148|[Sort List](https://leetcode.com/problems/sort-list/#/description)| [Python](./linkedlist/sortList.py) | _O(nlogn)_| _O(1)_  | Medium | ||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/#/description)| [Python](./linkedlist/rotateRight.py) | _O(n)_| _O(1)_  | Medium | ||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_  | Medium | ||
-
-
-## 4/16 Tasks (LinkedList Medium)
-|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
-|-----|-------| -------- | ---- | ------|------------|---|-----|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)| [Python](./linkedlist/copyRandomList.py) | _O(n)_| _O(n)_  | Medium | ||
 
 
-
-## 4/17 Tasks (Stacks and Queues: CtCi Chapter 3)
-|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
-|-----|-------| -------- | ---- | ------|------------|---|-----|
-
-
-
-## 4/18 Tasks (Stacks Easy)
+## Stacks Easy
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/#/description)| [Python](./stack_queue/minStack.py) | _O(1)_| _O(n)_  | Easy | ||
