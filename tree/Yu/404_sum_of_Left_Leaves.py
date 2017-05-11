@@ -1,3 +1,13 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+# Author: Yu Zhou
+# 404 sumOfLeftLeaves
+
+# ****************
+# Descrption:
+# ****************
+
 class Solution(object):
     def sumOfLeftLeaves(self, root):
         """
