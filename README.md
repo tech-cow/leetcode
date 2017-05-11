@@ -65,19 +65,12 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description)| [Python](./stack_queue/isValid.py) | _O(n)_| _O(n)_  | Easy | ||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/#/description)| [Python](./stack_queue/movingAverage.py) | _O(1)_| _O(n)_  | Easy | ||
 
-## 4/22 Tasks (Tree Easy)
-|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
-|-----|-------| -------- | ---- | ------|------------|---|-----|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python [Yu]](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  | Easy | ||
-|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python [Yu]](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_  | Easy | |[中文讲解](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
-
-
-
-
 
 ## Tree Easy
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python [Yu]](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  | Easy | ||
+|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python [Yu]](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_  | Easy | |[中文讲解](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python [Yu]](./tree/Yu/100_isSameTree.py) | _O(N)_| _O(1)_  | Easy |||
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python [Yu]](./tree/Yu/101_symmetricTree.py)| _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/3Gl4F29LVpQ)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./tree/Yu/104_maxDepth.py) | _O(N)_| _O(1)_  | Easy | ||
