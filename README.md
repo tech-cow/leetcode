@@ -67,7 +67,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/#/description)| [Python [Yu]](./tree/Yu/572.py) | _O(S*T)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/v4F4x_uwMb8)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/#/description)| [Python [Yu]](./tree/Yu/437.py) | _O(N^2)_| _O(1)_  | Easy | |[公瑾讲解](https://www.youtube.com/watch?v=NTyOEYYyv-o)|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)| [Python [Yu]](./tree/Yu/404_sum_of_Left_Leaves.py) | _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/pH-KxPcBF_4)|
-|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description)| [Python [Yu]](./tree/Yu/270)| _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/RwvQyKJxHZk)|
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description)| [Python [Yu]](./tree/Yu/270.py)| _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/RwvQyKJxHZk)|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)| [Python [Yu]](./tree/Yu/563.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/47FQVP4ynk0)|
 
 
@@ -75,6 +75,11 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 ## Tree Medium
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)| [Python [Yu]](./tree/Yu/144.py) | _O(N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/cHbdPonjYS0)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python [Yu]](./tree/Yu/102.py) | _O(N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/IWiprpdSgzg)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)| [Python [Yu]](./tree/Yu/107.py) | _O(N)_| _O(N)_  | Medium | ||
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/#/description)| [Python [Yu]](./tree/Yu/515.py) | _O(N)_| _O(1)_  | Medium | ||
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/#/description)| [Python [Yu]](./tree/Yu/236.py) | _O(N)_| _O(1)_  | Medium | |[公瑾讲解](https://youtu.be/WqNULaUhPCc)|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/#/description)| [Python [Yu]](./tree/Yu/199.py) | _O(N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/_iKUgRiUYKA)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)| [Python [Yu]](./tree/Yu/114.py) | _O(N)_| _O(1)_  | Medium | |[公瑾讲解](https://youtu.be/LfKRZ_qCmYQ)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [Python [Yu]](./tree/Yu/230.py) | _O(N)_| _O(1)_  | Medium | |[公瑾讲解](https://youtu.be/CfNRc82ighw)|
