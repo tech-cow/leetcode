@@ -84,3 +84,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)| [Python [Yu]](./tree/Yu/114.py) | _O(N)_| _O(1)_  | Medium | |[公瑾讲解](https://youtu.be/LfKRZ_qCmYQ)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [Python [Yu]](./tree/Yu/230.py) | _O(N)_| _O(1)_  | Medium | |[公瑾讲解](https://youtu.be/CfNRc82ighw)|
 |582|[Kill Process](https://leetcode.com/problems/kill-process/#/description)| [Python [Yu]](./tree/Yu/582.py) | _O(N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/fKR1n35Sj8s)|
+
+
+## Backtrack Medium
+|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
+|-----|-------| -------- | ---- | ------|------------|---|-----|
+|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python [Yu]](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_  | Medium | |[公瑾讲解](https://youtu.be/Az3PfUep7gk)|

@@ -1,6 +1,6 @@
-def traversal(root):
-  if not root:
-    return None
-  print root.val
-  traversal(root.left)
-  traversal(root.right)
+arr1 = [3]
+arr2 = [5]
+res = arr1 + arr2
+arr2.pop()
+
+print res
