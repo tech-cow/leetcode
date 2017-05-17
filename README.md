@@ -90,3 +90,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
 |-----|-------| -------- | ---- | ------|------------|---|-----|
 |78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python [Yu]](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_  | Medium | |[公瑾讲解](https://youtu.be/Az3PfUep7gk)|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python [Yu]](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  | Medium | |[公瑾讲解](https://youtu.be/Az3PfUep7gk)|
