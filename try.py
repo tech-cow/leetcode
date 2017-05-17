@@ -1,2 +1,4 @@
-arr = [1,2,3]
-print len(arr)
+arr = []
+for i in range(2,5):
+    arr.append(i)
+print arr 
