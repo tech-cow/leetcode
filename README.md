@@ -93,6 +93,8 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python [Yu]](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  | Medium | |[公瑾讲解](https://youtu.be/Az3PfUep7gk)|
 |46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python [Yu]](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  | Medium | |[公瑾讲解](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
 |47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [Python [Yu]](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  | Medium | |[公瑾讲解](https://youtu.be/imLl2s9Ujis)|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)| [Python [Yu]](./backtrack/Yu/60.py) | _O(N * (N!)_| _O(N)_  | Medium | ||
+
 |77|[Combinations](https://leetcode.com/problems/combinations/#/description)| [Python [Yu]](./backtrack/Yu/77.py) | _O(N*(N!))_| _O(N!)_  | Medium | ||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python [Yu]](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/HdS5dOaz-mk)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python [Yu]](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/HdS5dOaz-mk)|
