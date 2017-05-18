@@ -1,4 +1,2 @@
-arr = []
-for i in range(2,5):
-    arr.append(i)
-print arr 
+meh = xrange(0, 10)
+print len(meh)
