@@ -106,4 +106,4 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 ## Dynamic Programming Easy
 |  #  | Title | Solution | Time | Space | Difficulty | Note|
 |-----|-------| -------- | ---- | ------|------------|-----|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python [Yu]](./backtrack/Yu/216.py) | _O(N)_| _O(1)_  | Easy| |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python [Yu]](./dp/70.py) | _O(N)_| _O(1)_  | Easy| |
