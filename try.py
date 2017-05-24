@@ -1,7 +1,4 @@
-# Creates a list containing 5 lists, each of 8 items, all set to 0
-n = 6;
-Matrix = [["." for x in range(n)] for y in range(n)]
-string = ','.join(Matrix)
-
-#print Matrix
-print string
+lst = [[0] * 3 for _ in xrange(2)]
+ret = ', '.join(str(x) for x in lst)
+print (str(lst))
+print ret
