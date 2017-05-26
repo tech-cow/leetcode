@@ -113,3 +113,5 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty | Note|
 |-----|-------| -------- | ---- | ------|------------|-----|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/submissions/1)| [Python [Yu]](./dp/64.py) | _O(N^2)_| _O(M*N)_  | Easy| [公瑾讲解](https://youtu.be/bEcW6QqgXvM)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description
+)| [Python [Yu]](./dp/62.py) | _O(N^2)_| _O(M*N)_  | Easy| Reference #64|
