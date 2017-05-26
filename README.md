@@ -107,3 +107,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |  #  | Title | Solution | Time | Space | Difficulty | Note|
 |-----|-------| -------- | ---- | ------|------------|-----|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| [Python [Yu]](./dp/70.py) | _O(N)_| _O(1)_  | Easy| |
+
+
+## Dynamic Programming Medium
+|  #  | Title | Solution | Time | Space | Difficulty | Note|
+|-----|-------| -------- | ---- | ------|------------|-----|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/submissions/1)| [Python [Yu]](./dp/64.py) | _O(N^2)_| _O(M*N)_  | Easy| [公瑾讲解](https://youtu.be/bEcW6QqgXvM)|

@@ -1,4 +1,6 @@
-lst = [[0] * 3 for _ in xrange(2)]
-ret = ', '.join(str(x) for x in lst)
-print (str(lst))
-print ret
+n = 5
+arr = []
+for i in range(n):
+    print 1
+    for j in range(i):
+        print 5
