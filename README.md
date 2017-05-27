@@ -115,3 +115,9 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/submissions/1)| [Python [Yu]](./dp/64.py) | _O(N^2)_| _O(M*N)_  | Medium| [公瑾讲解](https://youtu.be/bEcW6QqgXvM)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description
 )| [Python [Yu]](./dp/62.py) | _O(N^2)_| _O(M*N)_  | Medium| Reference #64|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/
+)| [Python [Yu]](./dp/55.py) | _O(N^2)_| _O(1)_  | Medium| TLE with DP/Use Greedy for O(N) Solution|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/#/description
+)| [Python [Yu]](./dp/55.py) | _O(N^2)_| _O(1)_  | Medium|  TLE with DP/Use Greedy for O(N) Solution |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description
+)| [Python [Yu]](./dp/300.py) | _O(N^2)_| _O(1)_  | Medium| Use Binary-Search for NlogN Solution|
