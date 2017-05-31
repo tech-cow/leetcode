@@ -29,6 +29,4 @@ class Solution(object):
                 if dp[j] and j + nums[j] >= i:
                     dp[i] = True
                     break
-
-        print dp
         return dp[-1]
