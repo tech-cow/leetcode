@@ -102,6 +102,10 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python [Yu]](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  | Medium | |[公瑾讲解](https://youtu.be/HdS5dOaz-mk)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python [Yu]](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  | Medium | ||
 
+## Greedy Medium
+|  #  | Title | Solution | Time | Space | Difficulty | Note|
+|-----|-------| -------- | ---- | ------|------------|-----|
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)| [Python [Yu]](./greedy/452.py) | _O(N)_| _O(1)_  | Medium| |
 
 ## Dynamic Programming Easy
 |  #  | Title | Solution | Time | Space | Difficulty | Note|
