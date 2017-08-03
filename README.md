@@ -1,5 +1,32 @@
+# Leetcode
 
-# [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Python-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![Progress](https://img.shields.io/badge/progress-1%20%2F%20N-ff69b4.svg)
+<h1 align="center">
+  <br>
+  <a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
+
+</h1>
+
+
+<h4 align="center">Success is like pregnancy, everybody congratulates you but nobody knows how many times you were screwed to achieve it.</h4>
+
+
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/language-Python-orange.svg" alt="language">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/progress-1%20%2F%20N-ff69b4.svg" alt="progress">
+  </a>
+  
+</p>
+
+<br>
+
+
+
 
 Success is like pregnancy, Everybody congratulates you but nobody knows how many times you were screwed to achieve it.
 
