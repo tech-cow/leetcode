@@ -20,15 +20,11 @@
   <a>
     <img src="https://img.shields.io/badge/progress-1%20%2F%20N-ff69b4.svg" alt="progress">
   </a>
-  
+
 </p>
 
 <br>
 
-
-
-
-Success is like pregnancy, Everybody congratulates you but nobody knows how many times you were screwed to achieve it.
 
 ## Algorithms
 
