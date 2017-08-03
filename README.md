@@ -1,12 +1,11 @@
+# Leetcode
+
 <h1 align="center">
   <br>
   <a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
 
 </h1>
 
-<h1 align="center">
-  <a>LeetCode</a>
-</h1>
 
 <h4 align="center">Success is like pregnancy, everybody congratulates you but nobody knows how many times you were screwed to achieve it.</h4>
 
