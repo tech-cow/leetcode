@@ -148,3 +148,17 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python [Yu]](./dp/55.py) | _O(N^2)_| _O(1)_  | Medium| TLE with DP/Use Greedy for O(N) Solution|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/#/description)| [Python [Yu]](./dp/55.py) | _O(N^2)_| _O(1)_  | Medium|  TLE with DP/Use Greedy for O(N) Solution |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python [Yu]](./dp/300.py) | _O(N^2)_| _O(1)_  | Medium| Use Binary-Search for NlogN Solution|
+
+
+
+
+#### License
+
+MIT
+
+---
+
+> [yuzhoujr.com](https://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> LinkedIn [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+
