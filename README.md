@@ -73,7 +73,7 @@ Success is like pregnancy, Everybody congratulates you but nobody knows how many
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/#/description)| [Python [Yu]](./tree/Yu/404_sum_of_Left_Leaves.py) | _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/pH-KxPcBF_4)|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/#/description)| [Python [Yu]](./tree/Yu/270.py)| _O(N)_| _O(1)_  | Easy ||[公瑾讲解](https://youtu.be/RwvQyKJxHZk)|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/#/description)| [Python [Yu]](./tree/Yu/563.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/47FQVP4ynk0)|
-
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/#/description)| [Python [Yu]](./tree/Yu/538.py) | _O(N)_| _O(1)_  | Easy | |[公瑾讲解](https://youtu.be/YoEPWtXmkD4)|
 
 
 ## Tree Medium

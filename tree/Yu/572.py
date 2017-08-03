@@ -1,12 +1,9 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-# Author: Yu Zhou
-# 572. Subtree of Another Tree
-
-# ****************
-# Descrption:
-# ****************
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 
 class Solution(object):
     def isSubtree(self, s, t):
@@ -15,19 +12,20 @@ class Solution(object):
         :type t: TreeNode
         :rtype: bool
         """
-        #Edge
-        if not s or not t:
-            return False
+        def isMatch(s, t):
+            # 在每层的当前节点，做一套整体的比较
+            # Edge
+            if not s and not t:
+                return True
+            if not s or not t:
+                return False
+            if s.val == t.val:
+                return isMatch(s.left, t.left) and isMatch(s.right, t.right)
+            else:
+                return False
 
-        #Process
-        if self.isMatch(s,t):
+        if isMatch(s, t):
             return True
-
-        #Recusion
+        if not s:
+            return False
         return self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
-
-    def isMatch(self, s, t):
-        if not s or not t:
-            return s == t
-
-        return s.val == t.val and self.isMatch(s.left, t.left) and self.isMatch(s.right, t.right)
