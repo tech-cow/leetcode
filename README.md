@@ -38,21 +38,21 @@
 
 ## Array Medium
 |  #  | Title | Solution | Time | Space | Video|
-|-----|-------| -------- | ---- | -----|-----|
+| --- | ----- | -------- | ---- | ----- | ---- |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
 |463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||
 
 ## Linked List Easy
-|  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
-|-----|-------| -------- | ---- | ------|------------|---|-----|
-|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ | Easy || Iteratively|
-|  89  | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ | Easy |CC189| |
-|  141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ | Easy |CC189| Two Pointers|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  | Easy || |
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/#/description) | [Python](./linkedlist/RemoveLinkedListElements.py) | _O(n)_| _O(1)_  | Easy || |
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description) | [Python](./linkedlist/ReverseLinkedList.py) | _O(n)_| _O(1)_  | Easy |CC189| [Video Tutorial](https://www.youtube.com/watch?v=sYcOK51hl-A&t=681s) |
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  | Easy |CC189| Two Pointers|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  | Easy | ||
+|  #  | Title | Solution | Time | Space | Video|
+| --- | ----- | -------- | ---- | ----- | ---- |
+|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Python](./linkedlist/MergeTwoSortedLists.py) | _O(n)_| _O(n)_ ||
+|  89  | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./linkedlist/PartitionLinkedList.py) | _O(n)_ | _O(n)_ ||
+|  141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description) | [Python](./linkedlist/LinkedListCycle.py) | _O(n)_ | _O(1)_ ||
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./linkedlist/IntersectionOfTwoLinkedLists.py) | _O(n)_| _O(1)_  ||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/#/description) | [Python](./linkedlist/RemoveLinkedListElements.py) | _O(n)_| _O(1)_  ||
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description) | [Python](./linkedlist/ReverseLinkedList.py) | _O(n)_| _O(1)_  || Tutorial](https://www.youtube.com/watch?v=sYcOK51hl-A&t=681s) |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./linkedlist/palindrome.py) | _O(n)_| _O(1)_  ||
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)| [Python](./linkedlist/deleteDuplicates.py) | _O(n)_| _O(1)_  ||
 
 ## LinkedList Medium
 |  #  | Title | Solution | Time | Space | Difficulty |Tag| Note|
@@ -163,4 +163,3 @@ MIT
 > [yuzhoujr.com](https://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
 > GitHub [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
 > LinkedIn [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
-
