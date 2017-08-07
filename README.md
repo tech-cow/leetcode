@@ -43,7 +43,7 @@
 ## Array Easy
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |https://www.youtube.com/watch?v=uajne4jeGaA|
+|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
 
 
 
