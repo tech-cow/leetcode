@@ -13,4 +13,3 @@ class Solution(object):
             low = min(low, min(num))
             high = max(high, max(num))
         return res
-            
