@@ -136,6 +136,8 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python ](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  ||
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [Python ](./backtrack/Yu/17.py) | _O(N*(4^N))_| _O(N)_  |  [:tv:](https://www.youtube.com/watch?v=7KZWLM9QtRA)|
+
 
 ## Greedy Medium
 |  #  | Title | Solution | Time | Space | Video|
