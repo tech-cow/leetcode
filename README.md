@@ -127,15 +127,15 @@
 ## Backtrack Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_  |  |[:tv:](https://youtu.be/Az3PfUep7gk)|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  |  |[:tv:](https://youtu.be/Az3PfUep7gk)|
-|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  |[:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
-|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  |  |[:tv:](https://youtu.be/imLl2s9Ujis)|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)| [Python ](./backtrack/Yu/60.py) | _O(N * (N!)_| _O(N)_  |  ||
-|77|[Combinations](https://leetcode.com/problems/combinations/#/description)| [Python ](./backtrack/Yu/77.py) | _O(N*(N!))_| _O(N!)_  |  ||
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  |[:tv:](https://youtu.be/HdS5dOaz-mk)|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  |[:tv:](https://youtu.be/HdS5dOaz-mk)|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python ](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  |  ||
+|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_|[:tv:](https://youtu.be/Az3PfUep7gk)|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  |  [:tv:](https://youtu.be/Az3PfUep7gk)|
+|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
+|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://youtu.be/imLl2s9Ujis)|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)| [Python ](./backtrack/Yu/60.py) | _O(N * (N!)_| _O(N)_  ||
+|77|[Combinations](https://leetcode.com/problems/combinations/#/description)| [Python ](./backtrack/Yu/77.py) | _O(N*(N!))_| _O(N!)_   ||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python ](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  ||
 
 ## Greedy Medium
 |  #  | Title | Solution | Time | Space | Video|
