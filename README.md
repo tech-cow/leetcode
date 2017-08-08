@@ -113,34 +113,34 @@
 ## Tree Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)| [Python ](./tree/Yu/144.py) | _O(N)_| _O(N)_  | Medium | |[:tv:](https://youtu.be/cHbdPonjYS0)|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python ](./tree/Yu/102.py) | _O(N)_| _O(N)_  | Medium | |[:tv:](https://youtu.be/IWiprpdSgzg)|
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(N)_  | Medium | ||
-|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/#/description)| [Python ](./tree/Yu/515.py) | _O(N)_| _O(1)_  | Medium | ||
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/#/description)| [Python ](./tree/Yu/236.py) | _O(N)_| _O(1)_  | Medium | |[:tv:](https://youtu.be/WqNULaUhPCc)|
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/#/description)| [Python ](./tree/Yu/199.py) | _O(N)_| _O(N)_  | Medium | |[:tv:](https://youtu.be/_iKUgRiUYKA)|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)| [Python ](./tree/Yu/114.py) | _O(N)_| _O(1)_  | Medium | |[:tv:](https://youtu.be/LfKRZ_qCmYQ)|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [Python ](./tree/Yu/230.py) | _O(N)_| _O(1)_  | Medium | |[:tv:](https://youtu.be/CfNRc82ighw)|
-|582|[Kill Process](https://leetcode.com/problems/kill-process/#/description)| [Python ](./tree/Yu/582.py) | _O(N)_| _O(N)_  | Medium | |[:tv:](https://youtu.be/fKR1n35Sj8s)|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/#/description)| [Python ](./tree/Yu/144.py) | _O(N)_| _O(N)_  |  |[:tv:](https://youtu.be/cHbdPonjYS0)|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/#/description)| [Python ](./tree/Yu/102.py) | _O(N)_| _O(N)_  |  |[:tv:](https://youtu.be/IWiprpdSgzg)|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(N)_  |  ||
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/#/description)| [Python ](./tree/Yu/515.py) | _O(N)_| _O(1)_  |  ||
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/#/description)| [Python ](./tree/Yu/236.py) | _O(N)_| _O(1)_  |  |[:tv:](https://youtu.be/WqNULaUhPCc)|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/#/description)| [Python ](./tree/Yu/199.py) | _O(N)_| _O(N)_  |  |[:tv:](https://youtu.be/_iKUgRiUYKA)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)| [Python ](./tree/Yu/114.py) | _O(N)_| _O(1)_  |  |[:tv:](https://youtu.be/LfKRZ_qCmYQ)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [Python ](./tree/Yu/230.py) | _O(N)_| _O(1)_  |  |[:tv:](https://youtu.be/CfNRc82ighw)|
+|582|[Kill Process](https://leetcode.com/problems/kill-process/#/description)| [Python ](./tree/Yu/582.py) | _O(N)_| _O(N)_  |  |[:tv:](https://youtu.be/fKR1n35Sj8s)|
 
 
 ## Backtrack Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_  | Medium | |[:tv:](https://youtu.be/Az3PfUep7gk)|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  | Medium | |[:tv:](https://youtu.be/Az3PfUep7gk)|
-|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  | Medium | |[:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
-|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  | Medium | |[:tv:](https://youtu.be/imLl2s9Ujis)|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)| [Python ](./backtrack/Yu/60.py) | _O(N * (N!)_| _O(N)_  | Medium | ||
-|77|[Combinations](https://leetcode.com/problems/combinations/#/description)| [Python ](./backtrack/Yu/77.py) | _O(N*(N!))_| _O(N!)_  | Medium | ||
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  | Medium | |[:tv:](https://youtu.be/HdS5dOaz-mk)|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  | Medium | |[:tv:](https://youtu.be/HdS5dOaz-mk)|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python ](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  | Medium | ||
+|78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_  |  |[:tv:](https://youtu.be/Az3PfUep7gk)|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  |  |[:tv:](https://youtu.be/Az3PfUep7gk)|
+|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  |[:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
+|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  |  |[:tv:](https://youtu.be/imLl2s9Ujis)|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)| [Python ](./backtrack/Yu/60.py) | _O(N * (N!)_| _O(N)_  |  ||
+|77|[Combinations](https://leetcode.com/problems/combinations/#/description)| [Python ](./backtrack/Yu/77.py) | _O(N*(N!))_| _O(N!)_  |  ||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  |[:tv:](https://youtu.be/HdS5dOaz-mk)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  |[:tv:](https://youtu.be/HdS5dOaz-mk)|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python ](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  |  ||
 
 ## Greedy Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)| [Python ](./greedy/452.py) | _O(N)_| _O(1)_  | Medium| |
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)| [Python ](./greedy/452.py) | _O(N)_| _O(1)_  |  |
 
 ## Dynamic Programming Easy
 |  #  | Title | Solution | Time | Space | Video|
@@ -154,11 +154,11 @@
 ## Dynamic Programming Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/submissions/1)| [Python ](./dp/64.py) | _O(N^2)_| _O(M*N)_  | Medium| [:tv:](https://youtu.be/bEcW6QqgXvM)|
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)| [Python ](./dp/62.py) | _O(N^2)_| _O(M*N)_  | Medium| Reference #64|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  | Medium| TLE with DP/Use Greedy for O(N) Solution|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/#/description)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  | Medium|  TLE with DP/Use Greedy for O(N) Solution |
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  | Medium| Use Binary-Search for NlogN Solution|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/submissions/1)| [Python ](./dp/64.py) | _O(N^2)_| _O(M*N)_  |  [:tv:](https://youtu.be/bEcW6QqgXvM)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/#/description)| [Python ](./dp/62.py) | _O(N^2)_| _O(M*N)_  |  Reference #64|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  |  TLE with DP/Use Greedy for O(N) Solution|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/#/description)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  |   TLE with DP/Use Greedy for O(N) Solution |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  |  Use Binary-Search for NlogN Solution|
 
 
 
