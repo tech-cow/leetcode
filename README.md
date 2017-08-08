@@ -26,27 +26,8 @@
 </p>
 <br>
 
-
-<!---Content--->
-## Index
-
-* [Linked List](https://github.com/yuzhoujr/LeetCode#linked-list)
-
-
-
-
-
-
-
-
-
 ## Array Easy
-|  #  | Title | Solution | Time | Space | Video|
-| --- | ----- | -------- | ---- | ----- | ---- |
-|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
-
-
-
+|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Python](./array/624.py) | _O(n)_| _O(1)_ ||
 
 
 ## Array Medium
@@ -55,12 +36,17 @@
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
 |463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [Python](./array/463.py) | _O(n^2)_| _O(1)_||
 
+## Hash Table Easy
+|  #  | Title | Solution | Time | Space | Video|
+| --- | ----- | -------- | ---- | ----- | ---- |
+|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./array/1.py) | _O(n)_| _O(n)_ |[:tv:](https://www.youtube.com/watch?v=uajne4jeGaA)|
+|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Python](./array/242.py) | _O(n)_| _O(n)_ ||
 
 
 
 
-## Linked List
-[Overview](http://www.cnblogs.com/Raising-Sun/p/5970662.html#3534606)
+
+
 
 ## Linked List Easy
 |  #  | Title | Solution | Time | Space | Video|
