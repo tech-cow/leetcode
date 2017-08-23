@@ -74,7 +74,7 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/solutions)| [Python](./linkedlist/swapPairs.py) | _O(n)_| _O(1)_|
 |148|[Sort List](https://leetcode.com/problems/sort-list/#/description)| [Python](./linkedlist/sortList.py) | _O(nlogn)_| _O(1)_|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/#/description)| [Python](./linkedlist/rotateRight.py) | _O(n)_| _O(1)_|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description)| [Python](./linkedlist/removeNthFromEnd.py) | _O(n)_| _O(1)_|[:tv:](https://youtu.be/8Jq8ikIeF1M)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/#/description)| [Python](./linkedlist/copyRandomList.py) | _O(n)_| _O(n)_|
 
 
@@ -162,7 +162,8 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/#/description)| [Python ](./dp/55.py) | _O(N^2)_| _O(1)_  |   TLE with DP/Use Greedy for O(N) Solution |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/description)| [Python ](./dp/300.py) | _O(N^2)_| _O(1)_  |  Use Binary-Search for NlogN Solution|
 
-
+## BitMap Easy
+|136|[Single Number](https://leetcode.com/problems/single-number/description/)| [Python ](./bitmap/136.py) | _O(N)_| _O(1)_  |  [:tv:](https://www.youtube.com/watch?v=C4GWPpNivfI&list=PLFp7f5kTehDlpCj5puB3WGbH1Qi3eSDat&index=6&t=7s)|
 
 
 #### License
