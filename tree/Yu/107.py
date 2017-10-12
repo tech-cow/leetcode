@@ -14,18 +14,18 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[List[int]]
         """
-        res = []
-        self.dfs_level(root, 0, res)
-        res.reverse()
-        return res
+        self.res = []
 
-    def dfs_level(self, node, level, res):
-        #Edge
-        if not node:
-            return
-        #res: [[3],[9, 20], [15,7 ]]
-        if level >= len(res):
-            res.append([])
-        res[level].append(node.val)
-        self.dfs_level(node.left, level+1, res)
-        self.dfs_level(node.right, level+1, res)
+        def dfs(root, level):
+            if not root:
+                return
+
+            if len(self.res) == level:
+                self.res.append([])
+            self.res[level].append(root.val)
+
+            left = dfs(root.left, level + 1)
+            right = dfs(root.right, level + 1)
+
+        dfs(root, 0)
+        return self.res[::-1]
