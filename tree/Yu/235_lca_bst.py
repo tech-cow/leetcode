@@ -40,11 +40,27 @@
 # Final Solution *
 # ****************
 class Solution(object):
+    #Iterative
     def lowestCommonAncestor(self, root, p, q):
         if not root or not p or not q:
             return None
-        if max(p.val, q.val) < root.val:
+
+        while root:
+            if root.val > max(p.val, q.val):
+                root = root.left
+            elif root.val < min(p.val, q.val):
+                root = root.right
+            else:
+                return root
+
+
+    #Recursion
+    def lowestCommonAncestor2(self, root, p, q):
+        if not root or not p or not q:
+            return None
+        if root.val > max(p.val, q.val):
             return self.lowestCommonAncestor(root.left, p, q)
-        elif min(p.val, q.val) > root.val:
-            return self.lowestCommonAncestor(root.right, p ,q)
-        return root
+        elif root.val < min(p.val, q.val):
+            return self.lowestCommonAncestor(root.right, p, q)
+        else:
+            return root
