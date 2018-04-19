@@ -167,15 +167,15 @@
 
 ## License
 
-🌱 MIT 🌱
+🌱 MIT @ Yu Zhou 🌱
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/yuzhoujr/LeetCode/badge.svg?style=beer-square)](https://beerpay.io/yuzhoujr/LeetCode)  [![Beerpay](https://beerpay.io/yuzhoujr/LeetCode/make-wish.svg?style=flat-square)](https://beerpay.io/yuzhoujr/LeetCode?focus=wish)
 
 ---
 
 > ![home](http://yuzhoujr.com/emoji/home.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
 > ![github](http://yuzhoujr.com/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
 > ![linkedin](http://yuzhoujr.com/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/yuzhoujr/LeetCode/badge.svg?style=beer-square)](https://beerpay.io/yuzhoujr/LeetCode)  [![Beerpay](https://beerpay.io/yuzhoujr/LeetCode/make-wish.svg?style=flat-square)](https://beerpay.io/yuzhoujr/LeetCode?focus=wish)
