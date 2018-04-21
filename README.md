@@ -4,7 +4,7 @@
 
 <!---Logo--->
 <h1 align="center">
-      <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/image/logo.jpg" alt="yuzhoujr" width="200"></a>
+      <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/legacy/image/logo.jpg" alt="yuzhoujr" width="200"></a>
 </h1>
 
 <!---Mentra--->
@@ -176,6 +176,8 @@ Hey dude! Help me out for a couple of :beers:!
 
 ---
 
-> ![home](http://yuzhoujr.com/emoji/home.svg) [yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
-> ![github](http://yuzhoujr.com/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
-> ![linkedin](http://yuzhoujr.com/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
+
+> ![home](http://yuzhoujr.com/legacy/emoji/home.svg)
+[yuzhoujr.com](http://www.yuzhoujr.com) &nbsp;&middot;&nbsp;
+> ![github](http://yuzhoujr.com/legacy/emoji/github.svg)  [@yuzhoujr](https://github.com/yuzhoujr) &nbsp;&middot;&nbsp;
+> ![linkedin](http://yuzhoujr.com/legacy/emoji/linkedin.svg)  [@yuzhoujr](https://linkedin.com/in/yuzhoujr)
