@@ -8,7 +8,7 @@
 </h1>
 
 <!---Mentra--->
-> Success is like pregnancy, everybody congratulates you but nobody knows how many times you were screwed to achieve it.
+> 5月初进行新一轮的刷题，然后会分枝这个repo，上传更高质量的视频+code
 
 <!---svg--->
 <p align="center">
