@@ -199,11 +199,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 🌱 MIT @ Yu Zhou 🌱
 
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/yuzhoujr/LeetCode/badge.svg?style=beer-square)](https://beerpay.io/yuzhoujr/LeetCode)  [![Beerpay](https://beerpay.io/yuzhoujr/LeetCode/make-wish.svg?style=flat-square)](https://beerpay.io/yuzhoujr/LeetCode?focus=wish)
-
 ---
 
 
