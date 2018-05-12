@@ -12,7 +12,7 @@
 
 <!---svg--->
 <p align="center">
-  <img src="https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square">
+  <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/leetcode/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/leetcode/sponsors/badge.svg" /></a> <img src="https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square">
   <img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square">
   <img src="https://img.shields.io/badge/progress-1%20%2F%20N-ff69b4.svg?style=flat-square">
 </p>
@@ -163,6 +163,36 @@
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |136|[Single Number](https://leetcode.com/problems/single-number/description/)| [Python ](./bitmap/136.py) | _O(N)_| _O(1)_  |  [:tv:](https://www.youtube.com/watch?v=C4GWPpNivfI&list=PLFp7f5kTehDlpCj5puB3WGbH1Qi3eSDat&index=6&t=7s)|
+
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/leetcode/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/leetcode#backer)]
+
+<a href="https://opencollective.com/leetcode#backers" target="_blank"><img src="https://opencollective.com/leetcode/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/leetcode#sponsor)]
+
+<a href="https://opencollective.com/leetcode/sponsor/0/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/1/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/2/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/3/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/4/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/5/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/6/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/7/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/8/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/leetcode/sponsor/9/website" target="_blank"><img src="https://opencollective.com/leetcode/sponsor/9/avatar.svg"></a>
+
 
 
 ## License
