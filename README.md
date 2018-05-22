@@ -8,7 +8,7 @@
 </h1>
 
 <!---Mentra--->
-> 5月初进行新一轮的刷题，然后会分枝这个repo，上传更高质量的视频+code
+> 公瑾开始为面试做准备了，欢迎关注新建的资源REPO，里面有更全面的面试材料：https://github.com/yuzhoujr/googler
 
 <!---svg--->
 <p align="center">
