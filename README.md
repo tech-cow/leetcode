@@ -10,6 +10,8 @@
 <!---Mentra--->
 > 目前刷题的小伙伴可以跟着我的刷题计划走一遍，每天的计划可以点 [这里](https://github.com/yuzhoujr/leetcode/projects/1)，按照Tag过一遍常见算法，然后我会把本页的Markdown重新改版，从各个知识点做整合，然后录制相对应的YouTube视频。
 
+![currentflow](https://im2.ezgif.com/tmp/ezgif-2-70a8a24905.gif)
+
 <!---svg--->
 <p align="center">
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/leetcode/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/leetcode/sponsors/badge.svg" /></a> <img src="https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square">
@@ -21,6 +23,12 @@
 
 
 <br>
+
+
+
+
+
+
 
 ## Array Easy
 |  #  | Title | Solution | Time | Space | Video|
