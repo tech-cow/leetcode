@@ -1,8 +1,4 @@
 <!---Logo--->
-# Leetcode
-
-
-<!---Logo--->
 <h1 align="center">
       <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/legacy/image/logo.jpg" alt="yuzhoujr" width="200"></a>
 </h1>
