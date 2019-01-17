@@ -27,25 +27,7 @@
 
 ## Journey
 
-### 正在面
-* Amazon [Onsite]
-* Goldman Sach [TPS]
-* Microsoft [TPS]
-
-### 电面挂
-* Facebook 
-* Linkedin 
-* Airbnb 
-* StackRox
-* Coinbase
-* Wish
-
-### Onsite挂
-* Google 
-* Yahoo
-* Uber  
-* Ebay
-* Formation
+[时间线](https://gist.github.com/yuzhoujr/cf7c0ebdc0b3b471ddac94a862a0ecd9)
 
 
 <br><br><br>
