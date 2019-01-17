@@ -23,21 +23,31 @@
 
 * Google面试官的反馈: [Dropbox链接](https://paper.dropbox.com/doc/GMock-Interview--AIMRqf_e~KjKAe47PIvkVrN6AQ-8teeNVpJ2oq8s6nODLKQd)
 * Yahoo电面反馈: [Dropbox链接](https://paper.dropbox.com/doc/95-Yahoo--AMA9j51_WIY9uAzybM9E0QLSAQ-t0hgbpyY11v0NvI3bcEf9)
-* Facebook电面反馈: 挂
-* Linkedin电面反馈: Coming Soon
-* Airbnb电面反馈: Coming Soon
 
 
+## Journey
 
-## Onsite 经验 + 反馈
-* Google Coming Soon
-* Yahoo  Coming Soon
-* Uber   Coming Soon
+### 正在面
+* Amazon [Onsite]
+* Goldman Sach [TPS]
+* Microsoft [TPS]
+
+### 电面挂
+* Facebook 
+* Linkedin 
+* Airbnb 
+* StackRox
+* Coinbase
+* Wish
+
+### Onsite挂
+* Google 
+* Yahoo
+* Uber  
+* Ebay
+
 
 <br><br><br>
-
-
-
 
 
 
