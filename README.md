@@ -4,7 +4,7 @@
 </h1>
 
 <!---Mentra--->
-公瑾目前正在刷题，每天的计划可以点 [这里](https://github.com/yuzhoujr/leetcode/projects/1)，按照Tag过一遍常见算法，然后我会把本页的Markdown重新改版，从各个知识点做整合，然后录制相对应的YouTube视频。
+公瑾暂停刷题一段时间，不过提供免费的找工求职咨询: yu.zhou.jr@gmail.com
 
 
 <!---svg--->
