@@ -4,8 +4,8 @@
 </h1>
 
 <!---Mentra--->
-公瑾暂停刷题一段时间，不过提供免费的找工求职咨询: yu.zhou.jr@gmail.com
-
+公瑾现在提供以下服务哟！
+http://yuzhoujr.com/legacy/dummynode.pdf
 
 <!---svg--->
 <p align="center">
