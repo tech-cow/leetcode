@@ -5,7 +5,7 @@
  
 <!---Mentra--->
 <p align="center">
-      公瑾现在提供以下服务哟！
+      公瑾现在提供以下服务哟！Contact me @ yu.zhou.jr@gmail.com
       http://yuzhoujr.com/legacy/dummynode.pdf
 </p>
 <!---svg--->
